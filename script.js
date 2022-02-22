@@ -1,5 +1,5 @@
 let enteredNum = parseInt(
-  prompt("How many FizzBuzz numbers do you wanto to see?")
+  prompt("How many FizzBuzz numbers do you want to see?")
 );
 let fizzBuzzNums = [];
 for (let i = 15; i <= 15 * enteredNum; i += 15) {
