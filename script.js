@@ -4,7 +4,6 @@ let enteredNum = parseInt(
 let fizzBuzzNums = [];
 for (let i = 15; i <= 15 * enteredNum; i += 15) {
   fizzBuzzNums.push(i);
-  console.log(fizzBuzzNums);
 }
 
 document.getElementById(
